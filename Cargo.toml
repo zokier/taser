@@ -3,3 +3,6 @@
 name = "taser"
 version = "0.0.1"
 authors = ["Torste Aikio <zokier@gmail.com>"]
+
+[dependencies]
+num = "*"
